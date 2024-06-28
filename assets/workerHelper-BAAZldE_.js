@@ -1,1 +1,0 @@
-import{fa as e,fb as t}from"./index-CnOsxrHh.js";function n(f,u){return u.push(f.buffer),{buffer:f.buffer,layout:new t(f.layout)}}function o(f){return new e(f.layout).createView(f.buffer)}export{o as t,n as u};
